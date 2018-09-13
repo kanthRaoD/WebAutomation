@@ -1,0 +1,6 @@
+Test Case Scenario
+Edit chrome driver path in config.properties file
+Add and selecting one electronic item and proceeding till checkout page.
+Login to amazon site with incorrect credentials
+close the browser
+
